@@ -25,7 +25,12 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 <a href="www.linkedin.com/in/lyubomira-velinova">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
   </a>
-  
+
+
+<a href="Python">
+    <img alt="Linkedin followers" src=" https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  </a>
+ 
   
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyubomiraVelinova&show_icons=true&theme=blueberry)
