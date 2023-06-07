@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 ![LinkedIn](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 
-https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username={LyubomiraVelinova}
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+
+https://github-readme-stats.vercel.app/api/top-langs/?username={username}
