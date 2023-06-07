@@ -34,4 +34,4 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=LyubomiraVelinova&theme=discord)
 
-![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyubomiraVelinova&layout=compact&theme=white-yelow)
+![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyubomiraVelinova&layout=compact&theme=pink-yelow)
