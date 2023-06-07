@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
-<a href="https://www.linkedin.com/in/codemaker2015">
+<a href="www.linkedin.com/in/lyubomira-velinova">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-1.9K-blue?color=blue&logo=linkedin">
   </a>
