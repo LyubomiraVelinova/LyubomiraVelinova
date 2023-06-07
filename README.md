@@ -40,7 +40,15 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LyubomiraVelinova&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+---
+
+### :fire: My Trophy :
+
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=LyubomiraVelinova&theme=discord)
+
+---
+
+### :fire: Languages :
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyubomiraVelinova&layout=compact&theme=blueberry)
 
