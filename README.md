@@ -15,21 +15,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![LinkedIn](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+<!-- ![LinkedIn](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>) -->
 
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)(https://github.com/LyubomiraVelinova)
+<!-- ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)(https://github.com/LyubomiraVelinova) -->
+<!-- https://github-readme-stats.vercel.app/api/top-langs/?username={username} -->
 
-https://github-readme-stats.vercel.app/api/top-langs/?username={username}
-
-<a href="www.linkedin.com/in/lyubomira-velinova">
+<!-- <a href="www.linkedin.com/in/lyubomira-velinova">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</a> -->
 
-
+<!-- 
 <a href="Python">
     <img alt="Linkedin followers" src=" https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-  </a>
+  </a> -->
  
   
 ---
