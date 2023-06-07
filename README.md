@@ -24,7 +24,7 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={username}
 
 <a href="www.linkedin.com/in/lyubomira-velinova">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+</a>
 
 
 <a href="Python">
@@ -32,7 +32,10 @@ https://github-readme-stats.vercel.app/api/top-langs/?username={username}
   </a>
  
   
-  
+---
+
+### :fire: My Stats :
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyubomiraVelinova&show_icons=true&theme=blueberry)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LyubomiraVelinova&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
