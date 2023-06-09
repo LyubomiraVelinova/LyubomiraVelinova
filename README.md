@@ -10,7 +10,7 @@ I am Lyubomira Velinova - Junior Python Developer. I graduated with a master's d
 - :zap: I’m passionate about learning, growing and getting better every day
 - :loudspeaker: My motto is 'Life beggins at the end of your comfort zone!'
 - 📫 How to reach me:
-   - :email: lyubomiramihova@gmail.com
+   - :email: velinova.lyubomira@gmail.com
    - :office: [LinkedIn](https://www.linkedin.com/in/lyubomira-velinova/)
 
 <!--
