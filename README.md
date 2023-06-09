@@ -2,7 +2,7 @@
 
 ---
 
-### :smile:About me:
+### :blush: About me:
 I am Lyubomira Velinova - Junior Python Developer. I graduated with a master's degree in civil engineering, but after that I found a passion in programming and since then I am learning Python.
 
 - 👀 I’m interested in math, programming, books and sport;
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :fire: My Trophy :
+### :trophy: My Trophy :
 
 ![Github Trophy](https://github-profile-trophy.vercel.app/?username=LyubomiraVelinova&theme=discord)
 
