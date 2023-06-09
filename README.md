@@ -1,5 +1,5 @@
 ## Hi there! Nice to meet you! 👋
----
+
 ## About me
 I am Lyubomira Velinova - Junior Python Developer. I graduated with a master's degree in civil engineering, but after that I found a passion in programming and since then I am learning Python.
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
   
 ---
 
-### :fire: My Stats :
+## :fire: My Stats :
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LyubomiraVelinova&show_icons=true&theme=blueberry)
 
