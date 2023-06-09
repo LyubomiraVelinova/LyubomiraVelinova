@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hi there! Nice to meet you! 👋
+
+## About me
+I am Lyubomira Velinova - Junior Python Developer. I graduated with a master's degree in civil engineering, but after that I found a passion in programming and since then I am learning Python.
+
+- 👀 I’m interested in math, programming, books and sport;
+- 🌱 I’m currently learning programming with Python;
+- :zap: I’m passionate about learning, growing and getting better every day
+- :loudspeaker: My motto is 'Life beggins at the end of your comfort zone!'
+- 📫 How to reach me:
+   - :email: lyubomiramihova@gmail.com
+   - :office: [LinkedIn](https://www.linkedin.com/in/lyubomira-velinova/)
 
 <!--
 **LyubomiraVelinova/LyubomiraVelinova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
