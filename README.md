@@ -64,4 +64,4 @@ Here are some ideas to get you started:
 
 ![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LyubomiraVelinova&layout=compact&theme=blueberry)
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<!-- ![Jokes Card](https://readme-jokes.vercel.app/api)-->
